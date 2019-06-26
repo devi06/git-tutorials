@@ -1,2 +1,8 @@
+
 fil name example
 file example 
+file name1
+same file
+example one
+added something
+something:wq
