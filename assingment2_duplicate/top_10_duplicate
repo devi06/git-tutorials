@@ -1,1 +1,0 @@
-sed 's/~/,/g' code_csc | sort -t ',' -r -k 6| head -n 10 > top_10_duplicate
